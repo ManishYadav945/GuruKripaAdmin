@@ -1,0 +1,19 @@
+.main-header ul{
+    display: flex;
+    justify-content: space-around;
+   
+}
+.main-header{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+.imgsidenav
+{
+ height: 100%;
+ width: 100%;
+}
+.user-panel
+{
+    padding-left: 44px;
+}

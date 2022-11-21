@@ -1,0 +1,16 @@
+.container
+{
+display: flex;
+justify-content: center;
+}
+.btn
+{
+    background-color: #009688;
+}
+.btn:hover{
+    background-color:#aa422f;
+}
+.card-outline
+{
+    border-top: 1px solid #009688;
+}

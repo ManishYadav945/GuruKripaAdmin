@@ -1,0 +1,92 @@
+ /* .img1 {
+    vertical-align: middle;
+    border-style: none;
+     
+}
+body, html{
+    background-color:#34515E;
+   font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 18px;
+
+} */
+
+.register-form{
+    font-size: 16px;
+    padding: 45px 8px;
+    
+}
+.form_body{
+    background-color:  #eeeeee;;
+    padding: 20px;
+}
+
+
+.regbutton{    
+    height: 50px;
+    width: 200px;
+    background-color:#009688;
+    border-radius: 30px;
+    font-size: 23px;
+    color:white;
+    border: none !important;
+    margin-bottom: 5px;
+    font-family: fangsong;
+}
+.regbutton:hover{    
+    color: white;
+    background-color:#aa422f;
+}
+.regbutton:active{    
+    color: white;
+    background-color:#aa422f;
+} 
+/* .logbutton{    
+    height: 50px;
+    width: 200px;
+    background-color:yellowgreen;
+    border-radius: 30px;
+    font-size: 18px;
+    color:white;
+    border: none !important;
+    margin-bottom: 5px;
+}
+.logbutton:hover{    
+    color: white;
+    background-color:darkolivegreen;
+}
+.logbutton:active{    
+    color: white;
+    background-color:darkolivegreen;
+} */
+
+
+
+.form_body  label{
+    color: #009688;
+    
+}
+.form_body input{
+    margin-bottom: 5px;
+    /* width: 430px; */
+    height: 50px;
+    border-radius: 0px;
+    color: #009688;
+}
+ h2{
+    background-color: #009688;
+    color: white;
+    padding: 11px;
+    font-family: fangsong;
+} 
+th{
+    color: #009688;
+}
+h3{
+    background-color: #404343;
+    text-align: center;
+    padding: 10px;
+    color: #eeeeee;
+}
+.register_table{
+    margin: auto;
+}
